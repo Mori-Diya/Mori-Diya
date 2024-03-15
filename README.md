@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mori Daya</h1>
+<h1 align="center">Hy Everyone 👋, I'm Mori Daya</h1>
 <h3 align="center">A passionate Data Analysis </h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1F7Jqs2ncbKBJlCq1Zv2WuufMqzZr4FVVKEHNgS_nw49vHQ9eUKNoebuAtbdVxtPKVw&usqp=CAU">
